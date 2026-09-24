@@ -1,5 +1,10 @@
 # Social Media Auto-Poster (Demo)
 
+[![GitHub stars](https://img.shields.io/github/stars/maticcretic-commits/social-media-auto-poster?style=social)](https://github.com/maticcretic-commits/social-media-auto-poster/stargazers)
+[![Last commit](https://img.shields.io/github/last-commit/maticcretic-commits/social-media-auto-poster)](https://github.com/maticcretic-commits/social-media-auto-poster/commits/main)
+[![Cost: Free](https://img.shields.io/badge/cost-%E2%82%B90-brightgreen)](https://github.com/maticcretic-commits/social-media-auto-poster)
+
+
 Turn spreadsheet rows into scheduled social media posts. Write a week of content in one sitting — the automation handles the posting schedule.
 
 ## How it works
